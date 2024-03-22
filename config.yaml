@@ -123,10 +123,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    intro: ""
+    title: "Clément Pompon"
+    subtitle: "Je créer des applications et des sites web"
+    content: "Un développeur d’applications web passionné. J’ai tendance à utiliser les technologies Web modernes pour créer des sites Web qui ont fière allure, qui sont fantastiques et qui fonctionnent correctement."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -150,37 +150,35 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "À propos de moi"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Je m'appelle Clément Pompon, je suis étudiant du Lycée Edme Bouchardon en 2ème année de Brevet de Technicien Supérieur Services Informatiques aux Organisation comme option Solutions Logicielles et Applications Métiers. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Voici quelques technologies avec lesquelles j’ai travaillé récemment :"
       items:
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "PhpMyAdmin"
+        - "Photoshop"
+        - "Blender"
+        - "PHP"
 
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Experience Professionel"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - company: "CENTRE CULTUREL HAUT-MARNAIS"
+        companyUrl: "https://cchm52.fr/"
+        date: "15 Janvier - 17 Février"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "Le stage consisté à gérer une base de données, modifier un site web, participer à une communication, gérer les appel télephonique et modifier les logos."
 
       - job: "Software Developer"
         company: "Amazon"
