@@ -1,0 +1,325 @@
+baseURL: "https://KEMOLP52.github.io"
+languageCode: "fr"
+title: "POMPON"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+Paginate: 3
+enableRobotsTXT: true
+# disqusShortname: your-disqus-shortname
+# googleAnalytics: G-MEASUREMENT_ID
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: AP
+      name: AP et Projets
+      title: Projets Pompon
+      url: /projets/
+      weight: 1
+    - identifier: Stages
+      name: Stages
+      title: Stage
+      url: /stages/
+      weight: 2
+    #Dropdown menu
+    # - identifier: dropdown
+    #   title: Example dropdown menu
+    #   name: Dropdown
+    #   weight: 3
+    # - identifier: dropdown1
+    #   title: example dropdown 1
+    #   name: example 1
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 1
+    # - identifier: dropdown2
+    #   title: example dropdown 2
+    #   name: example 2
+    #   url: /#
+    #   parent: dropdown
+    #   weight: 2
+
+params:
+  title: "Hugo Profile"
+  description: Text about my cool site
+  # staticPath: ""  # The path to serve the static files from
+  favicon: "/fav.png"
+
+  # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
+  # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
+  # Note the lack of "" in true, it should be of boolean type.
+  useBootstrapCDN: false
+
+  # If you want to load dynamically responsive images from Cloudinary
+  # This requires your images to be uploaded + hosted on Cloudinary
+  # Uncomment and change YOUR_CLOUD_NAME to the Cloud Name in your Cloudinary console
+  # cloudinary_cloud_name: "YOUR_CLOUD_NAME"
+  
+  # Whether to add mathjax support on all pages. Alternatively, you can opt-in per page by adding `mathjax: true` in the frontmatter.
+  mathjax: false
+
+  # Whether the fade animations on the home page will be enabled
+  animate: true
+
+  theme:
+    # disableThemeToggle: true
+    # defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  # color preference
+  # color:
+  #   textColor:
+  #   secondaryTextColor:
+  #   backgroundColor:
+  #   secondaryBackgroundColor:
+  #   primaryColor:
+  #   secondaryColor:
+
+  #   darkmode:
+  #     textColor:
+  #     secondaryTextColor:
+  #     backgroundColor:
+  #     secondaryBackgroundColor:
+  #     primaryColor:
+  #     secondaryColor:
+
+  # If you want to customize the menu, you can change it here
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    # showBrandLogo: false # Show brand logo in nav bar | default is true
+    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    disableSearch: false
+    # searchPlaceholder: "Search"
+    stickyNavBar:
+      enable : true
+      showOnScrollUp : true
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: ""
+    title: "Clément Pompon"
+    subtitle: "Je créer des applications et des sites web"
+    content: "Un développeur d’applications web passionné. J’ai tendance à utiliser les technologies Web modernes pour créer des sites Web qui ont fière allure, qui sont fantastiques et qui fonctionnent correctement."
+    image: /images/hero.svg
+    bottomImage:
+      enable: true
+    # roundImage: true # Make hero image circular | default false
+    
+
+  # About
+  about:
+    enable: true
+    title: "À propos de moi"
+    image: "/images/me.png"
+    content: |-
+      Je m'appelle Clément Pompon, je suis étudiant du Lycée Edme Bouchardon en 2ème année de Brevet de Technicien Supérieur Services Informatiques aux Organisation comme option Solutions Logicielles et Applications Métiers. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
+    skills:
+      enable: true
+      title: "Voici quelques technologies avec lesquelles j’ai travaillé récemment :"
+      items:
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        - "PhpMyAdmin"
+        - "Photoshop"
+        - "Blender"
+        - "PHP"
+
+  # Experience
+  experience:
+    enable: true
+    title: "Experience Professionel"
+    items:
+        company: "CENTRE CULTUREL HAUT-MARNAIS"
+        companyUrl: "https://cchm52.fr/"
+        date: "15 Janvier - 17 Février"
+        content: "Le stage consisté à gérer une base de données, modifier un site web, participer à une communication, gérer les appel télephonique et modifier les logos."
+
+        company: "SAVE GAME DE CHAUMONT"
+        date: "30 Mai 2023 - 1 Juillet 2023"
+        content: "Le stage consisté à créer un site vitrine."
+
+        company: "E.LECLERC"
+        date: "Août 2022"
+        content: "J'ai travaillé pendant 2 semaines au magasin de chez E.Leclerc. Mon Travail consiste à ranger les produits à leurs places."
+
+        company: "ECOLE DE GENDARMERIE DE CHAUMONT"
+        date: "2021 - 2022"
+        content: "J'ai fait un stage de 8 semaines à l'Ecole de Gendarmerie de Chaumont. Pour lequel j'ai travaillé sur le montage photo, vidéo et je filme les céremonies de l'école."
+
+        company: "CONSEIL DÉPARTEMENTAL DE LA HAUTE-MARNE"
+        date: "Juin 2021"
+        content: "J'ai fais un stage de 4 semaines aux Service Informatique du Conseil Départemental de la haute-Marne. Pour lequel j'ai réparé des ordinateurs, des imprimantes et je programmé une caméra."
+
+        company: "ARCHIVES DÉPARTEMENTALE DE LA HAUTE-MARNE"
+        date: "Mars 2021"
+        content: "J'ai fait un stage de 4 semaines aux Archives départementale de la haute-marne. Pour lequel j'ai scanné des archives, des contrat et des photos plaques."
+
+        company: "CONSEIL DÉPARTEMENTAL DE LA HAUTE-MARNE"
+        date: "Mars 2020"
+        content: "J'ai fais un stage de 2 semaines aux Service Informatique du Conseil Départemental de la haute-Marne. Durant se stage j'ai réparé des ordinateurs, des imprimantes et je programmé une caméra."
+
+        company: "MÉDIATHÈQUE DÉPARTEMENTALE - HAUTE-MARNE"
+        date: "Novembre 2018"
+        content: "J'ai fais un stage de une semaine à la Médiathèque départementale - Haute-Marne. Mon boulot consiste à scanné des code barres des livres, je monté des vidéos et je crée des model 3d."
+        
+  # Education
+  education:
+    enable: true
+    # title: "Custom Name"
+    index: false
+    items:
+      - title: "BTS SERVICES INFORMATIQUE AUX ORGANISATIONS"
+        school:
+          name: "Lycée Edmé Bouchardon"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr/"
+        date: "2022 - 2024"
+        GPA: "3.8 out of 5.0"
+        content: |-
+          Je suis actuellement aux Lycée Edme Bouchardon en prenant BTS Service Informatique aux Organisation Option SLAM, après avoir obtenu le certificats Pix et avoir obtenu mon Bac.
+      - title: "BAC PRO SYSTÈMES NUMÉRIQUES"
+        school:
+          name: "Lycée Decomble"
+          url: "https://sitetab3.ac-reims.fr/lp-decomble/-wp-/category/presentation/?doing_wp_cron=1711624710.0518391132354736328125"
+        date: "2019 - 2022"
+        GPA: "3.9 out of 5.0"
+        content: |-
+          J'ai étudié au Lycée Eugène decomble en prenant Bac Pro Système Numérique avec option ARED après avoir obtenu mon brevet.
+
+  # Achievements
+  achievements:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: Zone Liste
+        content: 
+        url: 
+        image: /images/achievment.jpg
+      - title: Gestion du personnel
+        content: Application pour gérer le personnel
+        image: /images/achievment.jpg
+      - title: Hugo Profile
+        content: Developed a theme and getting 1K+ downloads per month.
+        url: "https://github.com/gurusabarish/hugo-profile"
+        image: /images/achievment.jpg
+      - title: Microsoft Imagine Runner
+        content: We are developed a product which can help others.
+      - title: Google Summer of Code
+        content: Contributed to a open source project.
+        url: https://example.com
+
+  # projects
+  projects:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: Zone Liste
+        content: Application qui permet de faire une liste des employés.
+        image: /images/projects/profile.png
+        badges:
+          - "C#"
+        links:
+          - icon: fa fa-envelope
+            url: https://kemolp52.github.io/
+
+      - title: Site de Stage
+        content: Site vitrine du Save Games de Chaumont.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Save Games
+          link: http://savegames.c1.biz/
+        badges:
+          - "HTML"
+          - "CSS"
+        links:
+          - icon: fa fa-envelope
+            url: https://kemolp52.github.io/
+
+      - title: Gestion du personnel
+        content: Application qui gère les salaries, les services et les enfants.
+        image: /images/projects/profile2.jpg
+        badges:
+          - "C#"
+          - "PhpMYSQL"
+          
+      - title: Projet Bordereau
+        content: Application qui permet d'inscrire des sportif.
+        image: /images/projects/profile.png
+        badges:
+          - "C#"
+
+  #Contact
+  contact:
+    enable: true
+    # title: "Custom Name"
+    content: J'espère que mon Portefolio vous à plus, si vous avez besoin de mon aide ou vous voulez travailler avec moi, appelez-moi.
+    email: wwwklem52@gmail.com
+    btnName: Email:
+    # formspree:
+    #   enable: true # `contact.email` value will be ignored
+    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+    #   emailCaption: "Enter your email address"
+    #   messageCaption: "Enter your message here"
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
+    socialNetworks:
+      github: https://kemolp52.github.io/
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+
+  # For translations
+  terms:
+    read: "Lire"
+    toc: "Contenu"
+    copyright: "Tous est réservés"
+    pageNotFound: "Page introuvable"
+    emailText: "Voici le site"
+
+  datesFormat:
+    article: "Mars 28, 2024"
+
+  #customScripts: -| # You can add custom scripts which will be added before </body> tag
+  #  <script type="text/javascript"><!-- any script here --></script>
