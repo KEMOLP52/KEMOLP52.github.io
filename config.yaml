@@ -196,54 +196,34 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "BTS SERVICES INFORMATIQUE AUX ORGANISATIONS"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
+          name: "Lycée Edmé Bouchardon"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr/"
+        date: "2022 - 2024"
         GPA: "3.8 out of 5.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          Je suis actuellement aux Lycée Edme Bouchardon en prenant BTS Service Informatique aux Organisation Option SLAM, après avoir obtenu le certificats Pix et avoir obtenu mon Bac.
+      - title: "BAC PRO SYSTÈMES NUMÉRIQUES"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
+          name: "Lycée Decomble"
+          url: "https://sitetab3.ac-reims.fr/lp-decomble/-wp-/category/presentation/?doing_wp_cron=1711624710.0518391132354736328125"
+        date: "2019 - 2022"
         GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          J'ai étudié au Lycée Eugène decomble en prenant Bac Pro Système Numérique avec option ARED après avoir obtenu mon brevet.
 
   # Achievements
   achievements:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
+      - title: Zone Liste
+        content: 
+        url: 
         image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
+      - title: Gestion du personnel
+        content: Application pour gérer le personnel
         image: /images/achievment.jpg
       - title: Hugo Profile
         content: Developed a theme and getting 1K+ downloads per month.
@@ -260,58 +240,48 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title: Zone Liste
+        content: Application qui permet de faire une liste des employés.
         image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "C#"
         links:
           - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://kemolp52.github.io/
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Site de Stage
+        content: Site vitrine du Save Games de Chaumont.
         image: /images/projects/converter.jpg
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          name: Save Games
+          link: http://savegames.c1.biz/
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "HTML"
+          - "CSS"
         links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          - icon: fa fa-envelope
+            url: https://kemolp52.github.io/
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
+      - title: Gestion du personnel
+        content: Application qui gère les salaries, les services et les enfants.
         image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+          - "C#"
+          - "PhpMYSQL"
+          
+      - title: Projet Bordereau
+        content: Application qui permet d'inscrire des sportif.
+        image: /images/projects/profile.png
+        badges:
+          - "C#"
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
-    btnName: Mail me
+    content: J'espère que mon Portefolio vous à plus, si vous avez besoin de mon aide ou vous voulez travailler avec moi, appelez-moi.
+    email: wwwklem52@gmail.com
+    btnName: Email:
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -326,11 +296,7 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://kemolp52.github.io/
 
   # List pages like blogs and posts
   listPages:
@@ -346,16 +312,14 @@ params:
 
   # For translations
   terms:
-    read: "Read"
-    toc: "Table Of Contents"
-    copyright: "All rights reserved"
-    pageNotFound: "Page not found"
-    emailText: "Check out this site"
+    read: "Lire"
+    toc: "Contenu"
+    copyright: "Tous est réservés"
+    pageNotFound: "Page introuvable"
+    emailText: "Voici le site"
 
   datesFormat:
-    article: "Jan 2, 2006"
-    articleList: "Jan 2, 2006"
-    articleRecent: "Jan 2, 2006"
+    article: "Mars 28, 2024"
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
