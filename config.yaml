@@ -281,7 +281,6 @@ params:
     # title: "Custom Name"
     content: J'espère que mon Portefolio vous à plus, si vous avez besoin de mon aide ou vous voulez travailler avec moi, appelez-moi.
     email: wwwklem52@gmail.com
-    btnName: Email:
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
