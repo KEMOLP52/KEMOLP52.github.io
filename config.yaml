@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
-languageCode: "en-us"
-title: "Hugo Profile"
+baseURL: "https://KEMOLP52.github.io"
+languageCode: "fr"
+title: "POMPON"
 theme: hugo-profile
 
 outputs:
@@ -24,15 +24,15 @@ markup:
 
 Menus:
   main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
+    - identifier: AP
+      name: AP et Projets
+      title: Projets Pompon
+      url: /projets/
       weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
+    - identifier: Stages
+      name: Stages
+      title: Stage
+      url: /stages/
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
@@ -123,49 +123,33 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    intro: ""
+    title: "Clément Pompon"
+    subtitle: "Je créer des applications et des sites web"
+    content: "Un développeur d’applications web passionné. J’ai tendance à utiliser les technologies Web modernes pour créer des sites Web qui ont fière allure, qui sont fantastiques et qui fonctionnent correctement."
     image: /images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
 
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "À propos de moi"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Je m'appelle Clément Pompon, je suis étudiant du Lycée Edme Bouchardon en 2ème année de Brevet de Technicien Supérieur Services Informatiques aux Organisation comme option Solutions Logicielles et Applications Métiers. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Voici quelques technologies avec lesquelles j’ai travaillé récemment :"
       items:
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "PhpMyAdmin"
+        - "Photoshop"
+        - "Blender"
+        - "PHP"
 
   # Experience
   experience:
