@@ -24,16 +24,6 @@ markup:
 
 Menus:
   main:
-    - identifier: AP
-      name: AP et Projets
-      title: Projets Pompon
-      url: /projets/
-      weight: 1
-    - identifier: Stages
-      name: Stages
-      title: Stage
-      url: /stages/
-      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
