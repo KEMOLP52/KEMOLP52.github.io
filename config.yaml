@@ -226,7 +226,7 @@ params:
     items:
       - title: Zone Liste
         content: Application qui permet de faire une liste des employés.
-        image: /images/projects/profile.png
+        image: /images/projects/zonecapture.PNG
         badges:
           - "C#"
         links:
@@ -235,7 +235,7 @@ params:
 
       - title: Site de Stage
         content: Site vitrine du Save Games de Chaumont.
-        image: /images/projects/converter.jpg
+        image: /images/projects/sitecapture.png
         featured:
           name: Save Games
           link: http://savegames.c1.biz/
@@ -248,14 +248,14 @@ params:
 
       - title: Gestion du personnel
         content: Application qui gère les salaries, les services et les enfants.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/gestionperso.PNG
         badges:
           - "C#"
           - "PhpMYSQL"
           
       - title: Projet Bordereau
         content: Application qui permet d'inscrire des sportif.
-        image: /images/projects/profile.png
+        image: /images/projects/projet bordereau.PNG
         badges:
           - "C#"
 
