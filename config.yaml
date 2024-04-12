@@ -127,7 +127,7 @@ params:
     title: "Clément Pompon"
     subtitle: "Je créer des applications et des sites web"
     content: "Un développeur d’applications web passionné. J’ai tendance à utiliser les technologies Web modernes pour créer des sites Web qui ont fière allure, qui sont fantastiques et qui fonctionnent correctement."
-    image: /images/prof.jpg
+    image: /images/hero.svg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
