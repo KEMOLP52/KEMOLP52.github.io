@@ -222,42 +222,22 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "BTS SERVICES INFORMATIQUE AUX ORGANISATIONS"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
+          name: "Lycée Edmé Bouchardon"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr/"
+        date: "2022 - 2024"
         GPA: "3.8 out of 5.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          Je suis actuellement aux Lycée Edme Bouchardon en prenant BTS Service Informatique aux Organisation Option SLAM, après avoir obtenu le certificats Pix et avoir obtenu mon Bac.
+      - title: "BAC PRO SYSTÈMES NUMÉRIQUES"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
+          name: "Lycée Decomble"
+          url: "https://sitetab3.ac-reims.fr/lp-decomble/-wp-/category/presentation/?doing_wp_cron=1711624710.0518391132354736328125"
+        date: "2019 - 2022"
         GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          J'ai étudié au Lycée Eugène decomble en prenant Bac Pro Système Numérique avec option ARED après avoir obtenu mon brevet.
 
   # Achievements
   achievements:
