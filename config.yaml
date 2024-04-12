@@ -183,24 +183,17 @@ params:
         content: "J'ai travaillé pendant 2 semaines au magasin de chez E.Leclerc. Mon Travail consiste à ranger les produits à leurs places."
 
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+      - job: "Monteur Photo-Vidéo"
+        company: "ECOLE DE GENDARMERIE DE CHAUMONT"
+        companyUrl: "https://www.gendarmerie.interieur.gouv.fr/cegn/les-ecoles-de-gendarmerie/ecoles-des-sous-officiers/chaumont"
+        date: "2021 - 2022"
+        content: "J'ai fait un stage de 8 semaines à l'Ecole de Gendarmerie de Chaumont."
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Informaticien"
+        company: "CONSEIL DÉPARTEMENTAL DE LA HAUTE-MARNE"
+        companyUrl: "https://haute-marne.fr/"
+        date: "Juin 2021"
+        content: "J'ai fais un stage de 4 semaines aux Service Informatique du Conseil Départemental de la haute-Marne. Pour lequel j'ai réparé des ordinateurs, des imprimantes et je programmé une caméra."
 
   # Education
   education:
