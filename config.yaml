@@ -32,7 +32,7 @@ Menus:
     - identifier: Stages
       name: Stages
       title: Stage
-      url: "https://kemolp52.github.io/#projects"
+      url: "https://kemolp52.github.io/#experience"
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
