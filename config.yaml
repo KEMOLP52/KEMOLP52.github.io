@@ -154,11 +154,16 @@ params:
   # Experience
   experience:
     enable: true
-    title: "Experience Professionel"
+    # title: "Custom Name"
     items:
-        company: "CENTRE CULTUREL HAUT-MARNAIS"
-        companyUrl: "https://cchm52.fr/"
+      - job: "Développeur et Graphiste"
+        company: "CCHM"
+        companyUrl: "https://cchm52.fr"
         date: "15 Janvier - 17 Février"
+        featuredLink:
+          enable: true
+          name: "Voici le Projet"
+          url: "https://cchm52.fr"
         content: "Le stage consisté à gérer une base de données, modifier un site web, participer à une communication, gérer les appel télephonique et modifier les logos."
 
       - job: "Software Developer"
