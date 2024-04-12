@@ -127,7 +127,7 @@ params:
     title: "Clément Pompon"
     subtitle: "Je créer des applications et des sites web"
     content: "Un développeur d’applications web passionné. J’ai tendance à utiliser les technologies Web modernes pour créer des sites Web qui ont fière allure, qui sont fantastiques et qui fonctionnent correctement."
-    image: /images/hero.svg
+    image: /images/prof.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -136,7 +136,7 @@ params:
   about:
     enable: true
     title: "À propos de moi"
-    image: "/images/me.png"
+    image: "/images/prof.jpg
     content: |-
       Je m'appelle Clément Pompon, je suis étudiant du Lycée Edme Bouchardon en 2ème année de Brevet de Technicien Supérieur Services Informatiques aux Organisation comme option Solutions Logicielles et Applications Métiers. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
     skills:
