@@ -183,6 +183,7 @@ params:
         featuredLink:
 	  enable: true
           name: "Bonjour"
+	  url: "https://www.e.leclerc"
         content: "J'ai travaillé pendant 2 semaines au magasin de chez E.Leclerc. Mon Travail consiste à ranger les produits à leurs places."
 
       - job: "UI/UX Designer"
