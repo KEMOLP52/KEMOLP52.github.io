@@ -181,6 +181,8 @@ params:
         companyUrl: "https://www.e.leclerc"
         date: "Août 2022"
         featuredLink:
+	  enable: true
+          name: "Bonjour"
         content: "J'ai travaillé pendant 2 semaines au magasin de chez E.Leclerc. Mon Travail consiste à ranger les produits à leurs places."
 
       - job: "UI/UX Designer"
