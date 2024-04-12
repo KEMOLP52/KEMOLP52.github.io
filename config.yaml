@@ -176,20 +176,12 @@ params:
           url: "http://savegames.c1.biz/"
         content: "Le stage consisté à créer un site vitrine."
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
+      - job: "Salarié"
+        company: "E.LECLERC"
+        companyUrl: "https://www.e.leclerc"
+        date: "Août 2022"
         featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+        content: "J'ai travaillé pendant 2 semaines au magasin de chez E.Leclerc. Mon Travail consiste à ranger les produits à leurs places."
 
       - job: "UI/UX Designer"
         company: "Netflix"
