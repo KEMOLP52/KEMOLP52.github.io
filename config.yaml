@@ -173,21 +173,9 @@ params:
         date: "2021 - 2022"
         content: "J'ai fait un stage de 8 semaines à l'Ecole de Gendarmerie de Chaumont. Pour lequel j'ai travaillé sur le montage photo, vidéo et je filme les céremonies de l'école."
 
-        company: "CONSEIL DÉPARTEMENTAL DE LA HAUTE-MARNE"
-        date: "Juin 2021"
-        content: "J'ai fais un stage de 4 semaines aux Service Informatique du Conseil Départemental de la haute-Marne. Pour lequel j'ai réparé des ordinateurs, des imprimantes et je programmé une caméra."
-
         company: "ARCHIVES DÉPARTEMENTALE DE LA HAUTE-MARNE"
         date: "Mars 2021"
         content: "J'ai fait un stage de 4 semaines aux Archives départementale de la haute-marne. Pour lequel j'ai scanné des archives, des contrat et des photos plaques."
-
-        company: "CONSEIL DÉPARTEMENTAL DE LA HAUTE-MARNE"
-        date: "Mars 2020"
-        content: "J'ai fais un stage de 2 semaines aux Service Informatique du Conseil Départemental de la haute-Marne. Durant se stage j'ai réparé des ordinateurs, des imprimantes et je programmé une caméra."
-
-        company: "MÉDIATHÈQUE DÉPARTEMENTALE - HAUTE-MARNE"
-        date: "Novembre 2018"
-        content: "J'ai fais un stage de une semaine à la Médiathèque départementale - Haute-Marne. Mon boulot consiste à scanné des code barres des livres, je monté des vidéos et je crée des model 3d."
         
   # Education
   education:
