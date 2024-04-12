@@ -307,12 +307,12 @@ params:
     # title: "Custom Name"
     content: Voilà
     email: wwwklem52@gmail.com
-    btnName: Mail me
+    btnName: Contacter
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
+    #   emailCaption: "Entrer une adresse mail"
+    #   messageCaption: "Entrer un message"
     
   footer:
     recentPosts:
