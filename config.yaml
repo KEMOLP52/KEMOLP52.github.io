@@ -166,21 +166,15 @@ params:
           url: "https://cchm52.fr"
         content: "Le stage consisté à gérer une base de données, modifier un site web, participer à une communication, gérer les appel télephonique et modifier les logos."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Développeur"
+        company: "SAVE GAME DE CHAUMONT"
+        companyUrl: "https://fr-fr.facebook.com/SavegamesChaumont52/"
+        date: "30 Mai 2023 - 1 Juillet 2023"
         featuredLink:
           enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          name: "Voici le Projet"
+          url: "http://savegames.c1.biz/"
+        content: "Le stage consisté à créer un site vitrine."
 
       - job: "Junior Software Developer"
         company: "Apple"
