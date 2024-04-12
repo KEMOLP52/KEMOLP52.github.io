@@ -136,7 +136,7 @@ params:
   about:
     enable: true
     title: "À propos de moi"
-    image: "/images/prof.jpg
+    image: "/images/me.png"
     content: |-
       Je m'appelle Clément Pompon, je suis étudiant du Lycée Edme Bouchardon en 2ème année de Brevet de Technicien Supérieur Services Informatiques aux Organisation comme option Solutions Logicielles et Applications Métiers. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
     skills:
