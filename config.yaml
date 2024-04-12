@@ -24,6 +24,16 @@ markup:
 
 Menus:
   main:
+    - identifier: AP
+      name: AP et Projets
+      title: Projets Pompon
+      url: "https://kemolp52.github.io/#projects"
+      weight: 1
+    - identifier: Stages
+      name: Stages
+      title: Stage
+      url: "https://kemolp52.github.io/#projects"
+      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
