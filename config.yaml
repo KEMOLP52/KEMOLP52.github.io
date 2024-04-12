@@ -154,68 +154,41 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Experience Professionel"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        company: "CENTRE CULTUREL HAUT-MARNAIS"
+        companyUrl: "https://cchm52.fr/"
+        date: "15 Janvier - 17 Février"
+        content: "Le stage consisté à gérer une base de données, modifier un site web, participer à une communication, gérer les appel télephonique et modifier les logos."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        company: "SAVE GAME DE CHAUMONT"
+        date: "30 Mai 2023 - 1 Juillet 2023"
+        content: "Le stage consisté à créer un site vitrine."
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+        company: "E.LECLERC"
+        date: "Août 2022"
+        content: "J'ai travaillé pendant 2 semaines au magasin de chez E.Leclerc. Mon Travail consiste à ranger les produits à leurs places."
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        company: "ECOLE DE GENDARMERIE DE CHAUMONT"
+        date: "2021 - 2022"
+        content: "J'ai fait un stage de 8 semaines à l'Ecole de Gendarmerie de Chaumont. Pour lequel j'ai travaillé sur le montage photo, vidéo et je filme les céremonies de l'école."
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+        company: "CONSEIL DÉPARTEMENTAL DE LA HAUTE-MARNE"
+        date: "Juin 2021"
+        content: "J'ai fais un stage de 4 semaines aux Service Informatique du Conseil Départemental de la haute-Marne. Pour lequel j'ai réparé des ordinateurs, des imprimantes et je programmé une caméra."
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        company: "ARCHIVES DÉPARTEMENTALE DE LA HAUTE-MARNE"
+        date: "Mars 2021"
+        content: "J'ai fait un stage de 4 semaines aux Archives départementale de la haute-marne. Pour lequel j'ai scanné des archives, des contrat et des photos plaques."
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+        company: "CONSEIL DÉPARTEMENTAL DE LA HAUTE-MARNE"
+        date: "Mars 2020"
+        content: "J'ai fais un stage de 2 semaines aux Service Informatique du Conseil Départemental de la haute-Marne. Durant se stage j'ai réparé des ordinateurs, des imprimantes et je programmé une caméra."
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
+        company: "MÉDIATHÈQUE DÉPARTEMENTALE - HAUTE-MARNE"
+        date: "Novembre 2018"
+        content: "J'ai fais un stage de une semaine à la Médiathèque départementale - Haute-Marne. Mon boulot consiste à scanné des code barres des livres, je monté des vidéos et je crée des model 3d."
+        
   # Education
   education:
     enable: true
