@@ -12,7 +12,5 @@ toc: true
 CCHM: true
 ---
 
-## CCHM
-
 Le CCHM offre de nombreuses possibilités d’accueil pour tous : Classes de découvertes, séjours de vacances et de loisirs, accueil de randonneurs
 Le stage consisté à gérer une base de données, modifier un site web, participer à une communication, gérer les appel télephonique et modifier les logos.
