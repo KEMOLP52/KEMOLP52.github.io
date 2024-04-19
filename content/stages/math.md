@@ -2,7 +2,7 @@
 title: "Centre Culturel Haut-Marnais"
 date: 2024-02-09T19:53:33+05:30
 draft: false
-author: "Gurusabarish"
+author: "ClementP"
 tags:
   - CCHM
   - Chaumont
