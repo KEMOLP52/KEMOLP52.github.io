@@ -6,7 +6,7 @@ author: "Gurusabarish"
 tags:
   - CCHM
   - Chaumont
-image: /images/stages/images.png
+image: /images/images.png
 description: ""
 toc: true
 CCHM: true
