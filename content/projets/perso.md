@@ -7,7 +7,7 @@ tags:
   - C#
   - php
   - PhPMyAdmin
-image: /images/gestionperso;PNG
+image: /images/gestionperso.PNG
 description: ""
 toc: true
 list: true
