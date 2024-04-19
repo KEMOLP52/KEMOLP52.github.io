@@ -13,8 +13,5 @@ toc: true
 list: true
 ---
 
-## list
-
-Zone Liste
 L'application consite à créer des employées ou de les supprimées, pour après ajouter 
 des des formations qui seront liées aux employés sélectionner.
