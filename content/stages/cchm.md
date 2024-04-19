@@ -1,6 +1,6 @@
 ---
 title: "Centre Culturel Haut-Marnais"
-date: 2024-02-00T52:00:33+05:30
+date: 2024-02-15T52:00:33+05:30
 draft: false
 author: "ClementP"
 tags:
