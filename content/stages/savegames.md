@@ -12,8 +12,5 @@ toc: true
 GAME: true
 ---
 
-## GAME
-
-SAVE GAMES CHAUMONT
 N°1 des Jeux vidéos et produits dérivés cinéma, séries tv, mangas, gaming
 Le stage consisté à créer un site vitrine.
