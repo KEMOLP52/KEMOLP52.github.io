@@ -27,7 +27,7 @@ Menus:
     - identifier: AP
       name: AP et Projets
       title: Projets Pompon
-      url: "https://kemolp52.github.io/#projects"
+      url: "https://kemolp52.github.io/projets"
       weight: 1
     - identifier: Stages
       name: Stages
