@@ -12,5 +12,5 @@ toc: true
 GAME: true
 ---
 
-N°1 des Jeux vidéos et produits dérivés cinéma, séries tv, mangas, gaming
-Le stage consisté à créer un site vitrine.
+N°1 des Jeux vidéos et produits dérivés cinéma, séries tv, mangas, gaming.
+Le stage consisté à créer un site vitrine, pour pouvoir consulté les jeux vidéos, consoles, etc.
