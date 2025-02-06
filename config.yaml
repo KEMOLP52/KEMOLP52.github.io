@@ -138,18 +138,14 @@ params:
     title: "À propos de moi"
     image: "/images/prof.png"
     content: |-
-      Je m'appelle Clément Pompon, je suis étudiant du Lycée Edme Bouchardon en 2ème année de Brevet de Technicien Supérieur Services Informatiques aux Organisation comme option Solutions Logicielles et Applications Métiers. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
+      Je m'appelle Clément Pompon, je suis étudiant de l'École Supérieure de Design de Troyes avec comme diplôme un BAC+3 Design Graphique. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
     skills:
       enable: true
-      title: "Voici quelques technologies avec lesquelles j’ai travaillé récemment :"
+      title: "Voici quelques projet avec lesquelles j’ai travaillé récemment :"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "PhpMyAdmin"
+        - "Illustrator"
+        - "InDesign"
         - "Photoshop"
-        - "Blender"
-        - "PHP"
 
   # Experience
   experience:
@@ -201,14 +197,22 @@ params:
     # title: "Custom Name"
     index: false
     items:
+    - title: "BAC+3 DESIGN GRAPHIQUE"
+        school:
+          name: "École Supérieure de Design de Troyes"
+          url: "https://ecolededesign.fr/"
+        date: "2024"
+        GPA: "4.8 out of 5.0"
+        content: |-
+          Je suis actuellement a l'École Supérieure de Design de Troyes Option Design Graphique
       - title: "BTS SERVICES INFORMATIQUE AUX ORGANISATIONS"
         school:
           name: "Lycée Edmé Bouchardon"
           url: "https://lyc-bouchardon.monbureaunumerique.fr/"
         date: "2022 - 2024"
-        GPA: "3.8 out of 5.0"
+        GPA: "2.8 out of 5.0"
         content: |-
-          Je suis actuellement aux Lycée Edme Bouchardon en prenant BTS Service Informatique aux Organisation Option SLAM, après avoir obtenu le certificats Pix et avoir obtenu mon Bac.
+          J'ai étudié aux Lycée Edme Bouchardon en prenant BTS Service Informatique aux Organisation Option SLAM, après avoir obtenu le certificats Pix et avoir obtenu mon Bac.
       - title: "BAC PRO SYSTÈMES NUMÉRIQUES"
         school:
           name: "Lycée Decomble"
