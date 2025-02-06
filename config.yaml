@@ -197,22 +197,14 @@ params:
     # title: "Custom Name"
     index: false
     items:
-    - title: "BAC+3 DESIGN GRAPHIQUE"
-        school:
-          name: "École Supérieure de Design de Troyes"
-          url: "https://ecolededesign.fr/"
-        date: "2024"
-        GPA: "4.8 out of 5.0"
-        content: |-
-          Je suis actuellement a l'École Supérieure de Design de Troyes Option Design Graphique
       - title: "BTS SERVICES INFORMATIQUE AUX ORGANISATIONS"
         school:
           name: "Lycée Edmé Bouchardon"
           url: "https://lyc-bouchardon.monbureaunumerique.fr/"
         date: "2022 - 2024"
-        GPA: "2.8 out of 5.0"
+        GPA: "3.8 out of 5.0"
         content: |-
-          J'ai étudié aux Lycée Edme Bouchardon en prenant BTS Service Informatique aux Organisation Option SLAM, après avoir obtenu le certificats Pix et avoir obtenu mon Bac.
+          Je suis actuellement aux Lycée Edme Bouchardon en prenant BTS Service Informatique aux Organisation Option SLAM, après avoir obtenu le certificats Pix et avoir obtenu mon Bac.
       - title: "BAC PRO SYSTÈMES NUMÉRIQUES"
         school:
           name: "Lycée Decomble"
