@@ -138,14 +138,18 @@ params:
     title: "À propos de moi"
     image: "/images/prof.png"
     content: |-
-      Je m'appelle Clément Pompon, je suis étudiant de l'École Supérieure de Design de Troyes avec comme diplôme un BAC+3 Design Graphique. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
+      Je m'appelle Clément Pompon, je suis étudiant du Lycée Edme Bouchardon en 2ème année de Brevet de Technicien Supérieur Services Informatiques aux Organisation comme option Solutions Logicielles et Applications Métiers. Dès mon plus jeune âge, j'ai su être quelqu'un de profondément motivé faisant toujours preuve d'une grande détermination.
     skills:
       enable: true
-      title: "Voici quelques projet avec lesquelles j’ai travaillé récemment :"
+      title: "Voici quelques technologies avec lesquelles j’ai travaillé récemment :"
       items:
-        - "Illustrator"
-        - "InDesign"
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        - "PhpMyAdmin"
         - "Photoshop"
+        - "Blender"
+        - "PHP"
 
   # Experience
   experience:
